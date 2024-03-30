@@ -5,7 +5,10 @@ Date: 30th March - 2024
 '''
 
 # Answers to questions from XR_Pair_Exercise_4.pdf
-
 # 1. Use the wikipedia.search method to return a list of topics related to 'generative artificial intelligence'.
 
-print("Welcome to Pair Exercise 4.")
+import wikipedia
+
+print(wikipedia.summary('Python programming language'))
+
+

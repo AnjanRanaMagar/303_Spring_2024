@@ -1,0 +1,9 @@
+# Created by pytest automatically.
+# Ignore virtual environment directory
+venv-pairwork/
+
+# Add other patterns or directories to ignore below
+# e.g., ignore .log files
+*.log
+
+
